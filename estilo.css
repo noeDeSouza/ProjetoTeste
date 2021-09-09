@@ -1,0 +1,33 @@
+body{
+  background-color: #e2eee0;
+  font-family: 'Google Sans', Roboto, Helvetica, Arial, sans-serif;
+  
+}
+input{
+  border-width: 0px 0px 1px 0px;
+
+}
+div.enviar{
+  position: relative;
+  margin: 25px auto;
+  width: 75%;
+}
+.submit{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  text-align: center;
+  border-radius: 7%;
+}
+div.resposta{
+  font-size: small;
+  position: relative;
+  max-width: 70%;
+  margin: 25px auto;
+  padding: 25px;
+  border: 1px hidden black;
+  background-color: white;
+  border-radius: 5px;
+  font-family: 'Google Sans', Roboto, Helvetica, Arial, sans-serif;
+}
